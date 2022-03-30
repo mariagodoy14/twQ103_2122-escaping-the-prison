@@ -1,4 +1,4 @@
-# Escape the Prision
+# Escape the Prison
 
 [Descripción breve del proyecto a realizar (2-3 frases).]
 
