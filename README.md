@@ -4,7 +4,7 @@
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Gonzalo Gil (GonzaloGV13), Silvia Hernández (SilviaHernandezCuerdas), María Godoy
 
 ## Objetivos del trabajo
 
