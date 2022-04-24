@@ -4,7 +4,7 @@ El objetivo del programa es presentar un juego donde tendras que intentar escapa
 
 ## Integrantes del equipo
 
-Gonzalo Gil (GonzaloGV13), Silvia Hernández (SilviaHernandezCuerdas), María Godoy
+Gonzalo Gil (GonzaloGV13), Silvia Hernández (SilviaHernandezCuerdas), María Godoy (mariagodoy14)
 
 ## Objetivos del trabajo
 
