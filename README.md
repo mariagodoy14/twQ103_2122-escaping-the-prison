@@ -1,6 +1,6 @@
-# Escape the Prison
+# Escaping the Prison
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+El objetivo del programa es presentar un juego donde tendras que intentar escapar de una prision después de haber acabado preso usando tu ingenio y resolviendo acertijos.
 
 ## Integrantes del equipo
 
